@@ -1,9 +1,10 @@
 # Random Inspirational Quote Generator
 [Live Demo](https://jn-random-quote-generator.netlify.app/)
 
-A small responsive web application which generates random inspirational quotes.
-
 ![Random Inspirational Quote Generator](./application-img.png)
+
+## About the project
+A small responsive web application which generates random inspirational quotes and also changes the background image when you request a new quote.
 
 ## Technologies Used
 
